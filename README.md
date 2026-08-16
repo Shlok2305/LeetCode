@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shlok2305/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
