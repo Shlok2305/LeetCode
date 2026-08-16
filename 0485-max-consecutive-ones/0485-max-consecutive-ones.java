@@ -6,7 +6,7 @@ class Solution {
             if (nums[i] == 1) {
                 j++;
                 // result = j;
-            } else if (nums[i] == 0) {
+            } else {
                 if (result < j) {
                     result = j;
                 }
