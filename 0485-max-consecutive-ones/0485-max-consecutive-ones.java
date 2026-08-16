@@ -13,9 +13,9 @@ class Solution {
                 j = 0;
             }
         }
-        if (result < j) {
-            result = j;
-        }
-        return result;
+        // if (result < j) {
+        //     result = j;
+        // }
+        return Math.max(result , j);
     }
 }
