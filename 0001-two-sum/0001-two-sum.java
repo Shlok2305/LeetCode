@@ -6,9 +6,10 @@ class Solution {
                 if(nums[i] + nums[j] == target){
                     result[0]= i;
                     result[1]=j;
+                    return result;
                 }
             }
         }
-        return result;
+        return null;
     }
 }
