@@ -5,11 +5,17 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == 1) {
                 j++;
-            } else {
-                result = Math.max(result , j);
+                // result = j;
+            } else if (nums[i] == 0) {
+                if (result < j) {
+                    result = j;
+                }
                 j = 0;
             }
         }
-        return Math.max(result , j);
+        if (result < j) {
+            result = j;
+        }
+        return result;
     }
 }
