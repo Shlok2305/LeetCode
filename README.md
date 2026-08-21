@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shlok2305/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -34,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
@@ -63,5 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
