@@ -1,0 +1,4 @@
+SELECT E.UNIQUE_ID , S.NAME
+FROM EmployeeUNI E
+RIGHT JOIN Employees S
+ON E.ID = S.ID;
