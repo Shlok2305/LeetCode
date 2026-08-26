@@ -1,4 +1,4 @@
 SELECT E.UNIQUE_ID , S.NAME
-FROM Employees S
-LEFT JOIN EmployeeUNI E
+FROM EmployeeUNI E
+RIGHT JOIN Employees S
 ON E.ID = S.ID;
