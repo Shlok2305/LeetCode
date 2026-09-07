@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shlok2305/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shlok2305/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
