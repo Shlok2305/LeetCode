@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
