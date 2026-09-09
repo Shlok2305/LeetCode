@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shlok2305/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
