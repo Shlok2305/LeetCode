@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
