@@ -9,21 +9,18 @@ class Solution {
             set2.add(x);
         }
 
+        Set<Integer> only1 = new HashSet<>(set1);
+        Set<Integer> only2 = new HashSet<>(set2);
+
         List<Integer> l1 = new ArrayList<>();
         List<Integer> l2 = new ArrayList<>();
         List<List<Integer>> result = new ArrayList<>();
 
-        Iterator<Integer> it = set1.iterator();
+        only1.removeAll(set2);
+        only2.removeAll(set1);
 
-        while(it.hasNext()){
-            int x = it.next();
-            if(set2.contains(x)){
-                set2.remove(x);
-                it.remove();
-            }
-        }
-        l1.addAll(set1);
-        l2.addAll(set2);
+        l1.addAll(only1);
+        l2.addAll(only2);
         result.add(l1);
         result.add(l2);
 
