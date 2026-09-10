@@ -9,6 +9,5 @@ class Solution {
                 j++;
             }
         }
-        return;
     }
 }
