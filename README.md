@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shlok2305/LeetCode/tree/master/0344-reverse-string) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
