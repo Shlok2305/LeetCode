@@ -11,7 +11,6 @@ class Solution {
                         continue;
                     int digit = 0;
                     digit = digits[i] * 100 + digits[j] * 10 + digits[k];
-
                     set.add(digit);
                 }
             }
