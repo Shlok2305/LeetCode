@@ -12,7 +12,6 @@ class Solution {
                 right--;
                 continue;
             }
-
             if(Character.toLowerCase(s.charAt(left))==Character.toLowerCase(s.charAt(right))){
                 left++;
                 right--;
