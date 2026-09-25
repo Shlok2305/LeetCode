@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shlok2305/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shlok2305/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
+| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
