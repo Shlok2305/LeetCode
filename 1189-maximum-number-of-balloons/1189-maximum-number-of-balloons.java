@@ -14,8 +14,7 @@ class Solution {
         int o = map.getOrDefault('o', 0) / 2;
         int n = map.getOrDefault('n', 0);
 
-        int ans = Math.min(b, Math.min(a, Math.min(l, Math.min(o, n))));
-        return ans;
+        return Math.min(b, Math.min(a, Math.min(l, Math.min(o, n))));
 
     }
 }
