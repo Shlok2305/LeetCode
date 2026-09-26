@@ -2,7 +2,6 @@ class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
         StringBuilder sb = new StringBuilder();
         StringBuilder sb2 = new StringBuilder();
-        char[] sa = s.toCharArray();
         HashMap<String, String> map = new HashMap<>();
 
         for (List<String> pair : knowledge) {
@@ -11,14 +10,19 @@ class Solution {
 
             map.put(key, value);
         }
+
         int i = 0;
-        while (i < sa.length) {
-            if (sa[i] == '(') {
+
+        while (i < s.length()) {
+
+            if (s.charAt(i) == '(') {
                 i++;
-                while (sa[i] != ')') {
-                    sb2.append(sa[i]);
+
+                while (s.charAt(i) != ')') {
+                    sb2.append(s.charAt(i));
                     i++;
                 }
+
                 if (map.containsKey(sb2.toString())) {
                     i++;
                     sb.append(map.get(sb2.toString()));
@@ -27,9 +31,10 @@ class Solution {
                     sb.append('?');
                     i++;
                 }
-            sb2.setLength(0); 
+
+                sb2.setLength(0);
             } else {
-                sb.append(sa[i]);
+                sb.append(s.charAt(i));
                 i++;
             }
         }
