@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shlok2305/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Shlok2305/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
