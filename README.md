@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shlok2305/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/Shlok2305/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shlok2305/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shlok2305/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
