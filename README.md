@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shlok2305/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shlok2305/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Shlok2305/LeetCode/tree/master/1572-matrix-diagonal-sum) |
