@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shlok2305/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shlok2305/LeetCode/tree/master/0704-binary-search) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
