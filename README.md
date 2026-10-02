@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
 ## Newton's Method
 |  |
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
