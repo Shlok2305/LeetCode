@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Shlok2305/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shlok2305/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Shlok2305/LeetCode/tree/master/0338-counting-bits) |
 ## String Matching
 |  |
 | ------- |
