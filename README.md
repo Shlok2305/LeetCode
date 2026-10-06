@@ -53,8 +53,8 @@ This repository contains my solutions to **LeetCode** problems, written in **Jav
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy | **3** |
-| 🟡 Medium | **3** |
+| 🟢 Easy | **67** |
+| 🟡 Medium | **19** |
 | 🔴 Hard | **0** |
 | **Total** | **6** |
 
