@@ -1,320 +1,576 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="420"/>
+
+# 🚀 LeetCode Solutions
+
+### Solving LeetCode one problem at a time.
+
+<p>
+  <a href="https://leetcode.com/u/Shlok2305_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Shlok2305_-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shlokarora/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shlok%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Shlok2305" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shlok2305-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problems-40-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Updated-Regularly-brightgreen?style=flat-square"/>
+</p>
+
+</div>
+
+---
+
+# 📖 About
+
+Welcome to my **LeetCode Solutions Repository**.
+
+This repository contains my solutions to **LeetCode** problems, written in **Java**, organized by difficulty and topic. Every solution focuses on writing clean, readable, and optimized code while improving problem-solving skills.
+
+### Goals
+
+- 🚀 Master Data Structures & Algorithms
+- 💻 Prepare for coding interviews
+- 🧠 Build strong problem-solving skills
+- 📚 Revise important concepts
+- 🔥 Maintain daily coding consistency
+- 🤝 Share solutions with the community
+
+---
+
+# 📊 Progress
+
+<div align="center">
+
+| Difficulty | Solved |
+|:----------:|:------:|
+| 🟢 Easy | **3** |
+| 🟡 Medium | **3** |
+| 🔴 Hard | **0** |
+| **Total** | **6** |
+
+</div>
+
+> ⭐ *One problem every day is better than solving many once in a while.*
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+| Language | IDE |
+|-----------|-----|
+| ☕ Java | IntelliJ IDEA / VS Code |
+
+</div>
+
+---
+
+# 📂 Repository Structure
+
+```text
+LeetCode/
+│
+├── Easy/
+├── Medium/
+├── Hard/
+│
+├── README.md
+└── LICENSE
+```
+
+Each problem is organized like:
+
+```text
+0001-two-sum/
+│
+└── Solution.java
+```
+
+---
+
+# ✨ Features
+
+- ✅ Clean Java Solutions
+- ✅ Optimized Approaches
+- ✅ Easy Folder Navigation
+- ✅ LeetCode Topic Wise Classification
+- ✅ Difficulty Wise Organization
+- ✅ Regular Updates
+
+---
+
+# 🔍 How to Navigate
+
+Browse by:
+
+- 📁 Difficulty (Easy / Medium / Hard)
+- 🔢 Problem Number
+- 🔍 Problem Name
+- 📚 Topic
+
+Each folder follows the official LeetCode naming convention.
+
+---
+
+# 📈 Repository Stats
+
+| Category | Value |
+|-----------|------:|
+| Total Problems | **40** |
+| Language | Java |
+| Platform | LeetCode |
+| Status | Active ✅ |
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome.
+
+If you'd like to improve any solution:
+
+1. Fork this repository
+2. Create a new branch
+
+```bash
+git checkout -b improve-solution
+```
+
+3. Commit the changes
+
+```bash
+git commit -m "Improve solution"
+```
+
+4. Push the branch
+
+```bash
+git push origin improve-solution
+```
+
+5. Open a Pull Request
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shlokarora/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Shlok%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shlok2305" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Shlok2305-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shlok2305_/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Shlok2305_-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⭐ Support
+
+If you found this repository helpful,
+
+<div align="center">
+
+### ⭐ Star this repository
+
+It motivates me to keep solving and sharing more LeetCode problems.
+
+</div>
+
+---
+
+<details>
+<summary>
+
+# 📚 LeetCode Topics
+
+(Click to Expand)
+
+</summary>
+
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+
 ## Array
 |  |
 | ------- |
-| [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
-| [0014-longest-common-prefix](https://github.com/Shlok2305/LeetCode/tree/master/0014-longest-common-prefix) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
-| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
-| [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
-| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
-| [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
-| [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
-| [0238-product-of-array-except-self](https://github.com/Shlok2305/LeetCode/tree/master/0238-product-of-array-except-self) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
-| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [0414-third-maximum-number](https://github.com/Shlok2305/LeetCode/tree/master/0414-third-maximum-number) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0485-max-consecutive-ones](https://github.com/Shlok2305/LeetCode/tree/master/0485-max-consecutive-ones) |
-| [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
-| [0566-reshape-the-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0566-reshape-the-matrix) |
-| [0643-maximum-average-subarray-i](https://github.com/Shlok2305/LeetCode/tree/master/0643-maximum-average-subarray-i) |
-| [0704-binary-search](https://github.com/Shlok2305/LeetCode/tree/master/0704-binary-search) |
-| [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
-| [0867-transpose-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0867-transpose-matrix) |
-| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
-| [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [1480-running-sum-of-1d-array](https://github.com/Shlok2305/LeetCode/tree/master/1480-running-sum-of-1d-array) |
-| [1572-matrix-diagonal-sum](https://github.com/Shlok2305/LeetCode/tree/master/1572-matrix-diagonal-sum) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
-| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/LeetCode/tree/master/3524-find-x-value-of-array-i) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok2305/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
-| [0125-valid-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0125-valid-palindrome) |
-| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
-| [0283-move-zeroes](https://github.com/Shlok2305/LeetCode/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/Shlok2305/LeetCode/tree/master/0344-reverse-string) |
-| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [0392-is-subsequence](https://github.com/Shlok2305/LeetCode/tree/master/0392-is-subsequence) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/Shlok2305/LeetCode/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/Shlok2305/LeetCode/tree/master/0013-roman-to-integer) |
-| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
-| [0050-powx-n](https://github.com/Shlok2305/LeetCode/tree/master/0050-powx-n) |
-| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
-| [0189-rotate-array](https://github.com/Shlok2305/LeetCode/tree/master/0189-rotate-array) |
-| [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
-| [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
-| [0836-rectangle-overlap](https://github.com/Shlok2305/LeetCode/tree/master/0836-rectangle-overlap) |
-| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
-| [3345-smallest-divisible-digit-product-i](https://github.com/Shlok2305/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
-| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/LeetCode/tree/master/3524-find-x-value-of-array-i) |
-| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok2305/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
-| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shlok2305/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
-| [3870-count-commas-in-range](https://github.com/Shlok2305/LeetCode/tree/master/3870-count-commas-in-range) |
-## Enumeration
-|  |
-| ------- |
-| [3345-smallest-divisible-digit-product-i](https://github.com/Shlok2305/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Shlok2305/LeetCode/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Shlok2305/LeetCode/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0058-length-of-last-word](https://github.com/Shlok2305/LeetCode/tree/master/0058-length-of-last-word) |
-| [0125-valid-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0125-valid-palindrome) |
-| [0205-isomorphic-strings](https://github.com/Shlok2305/LeetCode/tree/master/0205-isomorphic-strings) |
-| [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
-| [0344-reverse-string](https://github.com/Shlok2305/LeetCode/tree/master/0344-reverse-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
-| [0392-is-subsequence](https://github.com/Shlok2305/LeetCode/tree/master/0392-is-subsequence) |
-| [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
-| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
-| [0424-longest-repeating-character-replacement](https://github.com/Shlok2305/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0678-valid-parenthesis-string](https://github.com/Shlok2305/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
-| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
-| [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Shlok2305/LeetCode/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Shlok2305/LeetCode/tree/master/0013-roman-to-integer) |
-| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
-| [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
-| [0205-isomorphic-strings](https://github.com/Shlok2305/LeetCode/tree/master/0205-isomorphic-strings) |
-| [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
-| [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
-| [0424-longest-repeating-character-replacement](https://github.com/Shlok2305/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
-| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/Shlok2305/LeetCode/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/Shlok2305/LeetCode/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [0414-third-maximum-number](https://github.com/Shlok2305/LeetCode/tree/master/0414-third-maximum-number) |
-| [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
-| [0905-sort-array-by-parity](https://github.com/Shlok2305/LeetCode/tree/master/0905-sort-array-by-parity) |
-| [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
-| [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0338-counting-bits](https://github.com/Shlok2305/LeetCode/tree/master/0338-counting-bits) |
-| [0392-is-subsequence](https://github.com/Shlok2305/LeetCode/tree/master/0392-is-subsequence) |
-| [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
-| [0678-valid-parenthesis-string](https://github.com/Shlok2305/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/LeetCode/tree/master/3524-find-x-value-of-array-i) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/Shlok2305/LeetCode/tree/master/0050-powx-n) |
-| [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
-| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Shlok2305/LeetCode/tree/master/0509-fibonacci-number) |
-## Greedy
-|  |
-| ------- |
-| [0409-longest-palindrome](https://github.com/Shlok2305/LeetCode/tree/master/0409-longest-palindrome) |
-| [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
-| [0678-valid-parenthesis-string](https://github.com/Shlok2305/LeetCode/tree/master/0678-valid-parenthesis-string) |
-## Counting Sort
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
-| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
-| [0561-array-partition](https://github.com/Shlok2305/LeetCode/tree/master/0561-array-partition) |
-| [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
-| [1189-maximum-number-of-balloons](https://github.com/Shlok2305/LeetCode/tree/master/1189-maximum-number-of-balloons) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Shlok2305/LeetCode/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/Shlok2305/LeetCode/tree/master/0169-majority-element) |
+| [0001-two-sum](https://github.com/Shlok2305/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shlok2305/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shlok2305/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shlok2305/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shlok2305/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shlok2305/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Shlok2305/leetcode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok2305/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shlok2305/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+
 ## Prefix Sum
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/Shlok2305/LeetCode/tree/master/0238-product-of-array-except-self) |
-| [0560-subarray-sum-equals-k](https://github.com/Shlok2305/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0724-find-pivot-index](https://github.com/Shlok2305/LeetCode/tree/master/0724-find-pivot-index) |
-| [1480-running-sum-of-1d-array](https://github.com/Shlok2305/LeetCode/tree/master/1480-running-sum-of-1d-array) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Database
+| [0238-product-of-array-except-self](https://github.com/Shlok2305/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Shlok2305/leetcode/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+
+## Math
 |  |
 | ------- |
-| [0197-rising-temperature](https://github.com/Shlok2305/LeetCode/tree/master/0197-rising-temperature) |
-| [0577-employee-bonus](https://github.com/Shlok2305/LeetCode/tree/master/0577-employee-bonus) |
-| [0584-find-customer-referee](https://github.com/Shlok2305/LeetCode/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/Shlok2305/LeetCode/tree/master/0595-big-countries) |
-| [1068-product-sales-analysis-i](https://github.com/Shlok2305/LeetCode/tree/master/1068-product-sales-analysis-i) |
-| [1148-article-views-i](https://github.com/Shlok2305/LeetCode/tree/master/1148-article-views-i) |
-| [1193-monthly-transactions-i](https://github.com/Shlok2305/LeetCode/tree/master/1193-monthly-transactions-i) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shlok2305/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shlok2305/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-| [1757-recyclable-and-low-fat-products](https://github.com/Shlok2305/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [0012-integer-to-roman](https://github.com/Shlok2305/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shlok2305/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shlok2305/leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Shlok2305/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shlok2305/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok2305/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shlok2305/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Shlok2305/leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Shlok2305/leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shlok2305/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+
 ## Bit Manipulation
 |  |
 | ------- |
-| [0136-single-number](https://github.com/Shlok2305/LeetCode/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/Shlok2305/LeetCode/tree/master/0137-single-number-ii) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0338-counting-bits](https://github.com/Shlok2305/LeetCode/tree/master/0338-counting-bits) |
-## String Matching
+| [0136-single-number](https://github.com/Shlok2305/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Shlok2305/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0476-number-complement](https://github.com/Shlok2305/leetcode/tree/master/0476-number-complement) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+
+## Hash Table
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0796-rotate-string](https://github.com/Shlok2305/LeetCode/tree/master/0796-rotate-string) |
-## Simulation
+| [0001-two-sum](https://github.com/Shlok2305/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shlok2305/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shlok2305/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Shlok2305/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shlok2305/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0409-longest-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+
+## Sorting
 |  |
 | ------- |
-| [0412-fizz-buzz](https://github.com/Shlok2305/LeetCode/tree/master/0412-fizz-buzz) |
-| [0566-reshape-the-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0566-reshape-the-matrix) |
-| [0867-transpose-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0867-transpose-matrix) |
-| [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
-## Binary Search
+| [0088-merge-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shlok2305/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shlok2305/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+
+## String
 |  |
 | ------- |
-| [0035-search-insert-position](https://github.com/Shlok2305/LeetCode/tree/master/0035-search-insert-position) |
-| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
-| [0268-missing-number](https://github.com/Shlok2305/LeetCode/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/0349-intersection-of-two-arrays) |
-| [0704-binary-search](https://github.com/Shlok2305/LeetCode/tree/master/0704-binary-search) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Floyd's Cycle Finding Algorithm
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Shlok2305/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Shlok2305/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Shlok2305/leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Shlok2305/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Shlok2305/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shlok2305/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Shlok2305/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Shlok2305/leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok2305/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+
+## Greedy
 |  |
 | ------- |
-| [0202-happy-number](https://github.com/Shlok2305/LeetCode/tree/master/0202-happy-number) |
-## Trie
+| [0409-longest-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok2305/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+
+## Counting Sort
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Shlok2305/LeetCode/tree/master/0014-longest-common-prefix) |
-## Queue
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+
+## Recursion
 |  |
 | ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0424-longest-repeating-character-replacement](https://github.com/Shlok2305/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [0643-maximum-average-subarray-i](https://github.com/Shlok2305/LeetCode/tree/master/0643-maximum-average-subarray-i) |
-| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/Shlok2305/LeetCode/tree/master/0048-rotate-image) |
-| [0566-reshape-the-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0566-reshape-the-matrix) |
-| [0867-transpose-matrix](https://github.com/Shlok2305/LeetCode/tree/master/0867-transpose-matrix) |
-| [1572-matrix-diagonal-sum](https://github.com/Shlok2305/LeetCode/tree/master/1572-matrix-diagonal-sum) |
-## Geometry
-|  |
-| ------- |
-| [0836-rectangle-overlap](https://github.com/Shlok2305/LeetCode/tree/master/0836-rectangle-overlap) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0020-valid-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/Shlok2305/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Bracket Sequences
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0020-valid-parentheses) |
-| [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
-| [0678-valid-parenthesis-string](https://github.com/Shlok2305/LeetCode/tree/master/0678-valid-parenthesis-string) |
-| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
-## Union-Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/Shlok2305/LeetCode/tree/master/0128-longest-consecutive-sequence) |
-## Bubble Sort
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
-| [1051-height-checker](https://github.com/Shlok2305/LeetCode/tree/master/1051-height-checker) |
-## Newton's Method
-|  |
-| ------- |
-| [0069-sqrtx](https://github.com/Shlok2305/LeetCode/tree/master/0069-sqrtx) |
+| [0021-merge-two-sorted-lists](https://github.com/Shlok2305/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shlok2305/leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Shlok2305/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+
 ## Backtracking
 |  |
 | ------- |
-| [0022-generate-parentheses](https://github.com/Shlok2305/LeetCode/tree/master/0022-generate-parentheses) |
-## Quicksort
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+
+## Combinatorics
 |  |
 | ------- |
-| [0075-sort-colors](https://github.com/Shlok2305/LeetCode/tree/master/0075-sort-colors) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shlok2305/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Shlok2305/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Shlok2305/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shlok2305/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Shlok2305/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Shlok2305/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shlok2305/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Shlok2305/leetcode/tree/master/0796-rotate-string) |
+
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shlok2305/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
+
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
+
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Shlok2305/leetcode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/Shlok2305/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Shlok2305/leetcode/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Shlok2305/leetcode/tree/master/1148-article-views-i) |
+| [1661-average-time-of-process-per-machine](https://github.com/Shlok2305/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1683-invalid-tweets](https://github.com/Shlok2305/leetcode/tree/master/1683-invalid-tweets) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shlok2305/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
+
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shlok2305/leetcode/tree/master/0014-longest-common-prefix) |
+
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shlok2305/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok2305/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok2305/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shlok2305/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shlok2305/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok2305/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shlok2305/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shlok2305/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shlok2305/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+
 ## Z Algorithm
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+
 <!---LeetCode Topics End-->
+
+</details>
+
+---
+
+<div align="center">
+
+# 💻 Happy Coding!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+**Made with ❤️ by Shlok Arora**
+
+</div>
