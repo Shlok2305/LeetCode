@@ -53,7 +53,7 @@ This repository contains my solutions to **LeetCode** problems, written in **Jav
 
 | Difficulty | Solved |
 |:----------:|:------:|
-| 🟢 Easy | **67** |
+| 🟢 Easy | **68** |
 | 🟡 Medium | **19** |
 | 🔴 Hard | **0** |
 | **Total** | **6** |
@@ -127,7 +127,7 @@ Each folder follows the official LeetCode naming convention.
 
 | Category | Value |
 |-----------|------:|
-| Total Problems | **40** |
+| Total Problems | **87** |
 | Language | Java |
 | Platform | LeetCode |
 | Status | Active ✅ |
