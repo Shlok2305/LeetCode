@@ -212,6 +212,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shlok2305/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shlok2305/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shlok2305/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
@@ -344,6 +345,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shlok2305/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -381,6 +383,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shlok2305/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shlok2305/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shlok2305/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
