@@ -13,6 +13,7 @@ class Solution {
             else if(height[left] == height[right]){
                 water = height[right]*(right - left);
                 right--;
+                left++;
             }
             else{
                 water = height[left]*(right - left);
