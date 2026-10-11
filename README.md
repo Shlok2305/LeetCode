@@ -240,6 +240,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shlok2305/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -393,6 +394,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shlok2305/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
