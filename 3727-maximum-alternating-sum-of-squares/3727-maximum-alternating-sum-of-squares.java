@@ -4,7 +4,7 @@ class Solution {
         long score =0;
         long[] ans = new long[n];
         for(int i=0;i<nums.length;i++){
-            long sqr = nums[i]*nums[i];
+            long sqr = (long) nums[i]*nums[i];
             ans[i] = sqr;
         }
         Arrays.sort(ans);
