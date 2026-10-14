@@ -242,6 +242,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shlok2305/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -271,6 +272,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shlok2305/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shlok2305/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -314,6 +316,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -456,6 +459,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
 |  |
 | ------- |
