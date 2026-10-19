@@ -11,16 +11,16 @@ class Solution {
                 count++;
                 i++;
             }
-            chars[idx++] = ch;
 
+            chars[idx++] = ch;
             if(count > 1){
                 String num = String.valueOf(count);
+                
                 for(int j = 0;j<num.length();j++){
                     chars[idx++]= num.charAt(j);
                 }
             }
         }
-
         return idx;
     }
 }
