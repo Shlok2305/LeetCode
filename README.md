@@ -239,6 +239,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shlok2305/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shlok2305/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -332,6 +333,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shlok2305/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shlok2305/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
@@ -481,6 +483,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shlok2305/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
