@@ -225,6 +225,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0239-sliding-window-maximum](https://github.com/Shlok2305/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shlok2305/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
@@ -288,6 +289,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0136-single-number](https://github.com/Shlok2305/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Shlok2305/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Shlok2305/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Shlok2305/leetcode/tree/master/0476-number-complement) |
@@ -423,6 +425,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0125-valid-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shlok2305/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shlok2305/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
@@ -480,6 +483,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -497,6 +501,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -578,6 +583,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shlok2305/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
 
 </details>
