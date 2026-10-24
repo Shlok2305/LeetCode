@@ -231,6 +231,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shlok2305/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -334,6 +335,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shlok2305/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shlok2305/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -392,6 +394,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
@@ -497,6 +500,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shlok2305/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -579,6 +583,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shlok2305/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -591,6 +596,18 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
 
 </details>
