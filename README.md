@@ -276,6 +276,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shlok2305/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shlok2305/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shlok2305/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/Shlok2305/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shlok2305/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -376,6 +377,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok2305/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Shlok2305/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
