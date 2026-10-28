@@ -550,6 +550,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok2305/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -558,6 +559,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shlok2305/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Segment Tree
 |  |
@@ -576,6 +578,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -630,6 +633,10 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shlok2305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
 
 </details>
