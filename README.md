@@ -319,6 +319,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shlok2305/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shlok2305/leetcode/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Shlok2305/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -367,6 +368,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Shlok2305/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Shlok2305/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Shlok2305/leetcode/tree/master/0796-rotate-string) |
@@ -446,6 +448,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shlok2305/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shlok2305/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shlok2305/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
@@ -538,6 +541,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shlok2305/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
