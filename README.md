@@ -229,6 +229,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/Shlok2305/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shlok2305/leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shlok2305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -542,6 +543,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shlok2305/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shlok2305/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Shlok2305/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shlok2305/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
