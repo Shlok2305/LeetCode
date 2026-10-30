@@ -272,6 +272,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Shlok2305/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Shlok2305/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
@@ -413,6 +414,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0203-remove-linked-list-elements](https://github.com/Shlok2305/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Shlok2305/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shlok2305/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shlok2305/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
