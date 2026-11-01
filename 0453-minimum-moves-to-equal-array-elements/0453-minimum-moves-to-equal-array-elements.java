@@ -4,7 +4,7 @@ class Solution {
         int sum = 0;
 
         for(int num : nums){
-            min = Math.min(min,num);
+           if(min>num) min = num;
             sum += num;
         }
         return sum - (nums.length * min);
