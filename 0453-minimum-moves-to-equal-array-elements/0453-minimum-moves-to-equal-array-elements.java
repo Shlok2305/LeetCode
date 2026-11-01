@@ -7,6 +7,6 @@ class Solution {
            if(min>num) min = num;
             sum += num;
         }
-        return sum - (nums.length * min);
+        return sum - (min * nums.length);
     }
 }
