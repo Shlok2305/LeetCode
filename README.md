@@ -229,6 +229,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0287-find-the-duplicate-number](https://github.com/Shlok2305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shlok2305/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shlok2305/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Shlok2305/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shlok2305/leetcode/tree/master/0704-binary-search) |
@@ -277,6 +278,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0371-sum-of-two-integers](https://github.com/Shlok2305/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Shlok2305/leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shlok2305/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shlok2305/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shlok2305/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -345,6 +347,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shlok2305/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shlok2305/LeetCode/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shlok2305/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
