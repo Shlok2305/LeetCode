@@ -272,6 +272,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0013-roman-to-integer](https://github.com/Shlok2305/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shlok2305/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shlok2305/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Shlok2305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shlok2305/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Shlok2305/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shlok2305/leetcode/tree/master/0268-missing-number) |
@@ -482,6 +483,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shlok2305/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shlok2305/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Shlok2305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shlok2305/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
@@ -490,6 +492,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shlok2305/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
