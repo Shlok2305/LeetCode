@@ -237,6 +237,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shlok2305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shlok2305/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -418,6 +419,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/Shlok2305/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Shlok2305/leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Shlok2305/LeetCode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shlok2305/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Recursion
 |  |
@@ -509,6 +511,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/Shlok2305/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shlok2305/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Database
@@ -606,6 +609,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | ------- |
 | [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shlok2305/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -663,6 +667,11 @@ It motivates me to keep solving and sharing more LeetCode problems.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Shlok2305/LeetCode/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shlok2305/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
 
 </details>
