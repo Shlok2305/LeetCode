@@ -405,6 +405,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok2305/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shlok2305/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -516,6 +517,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0867-transpose-matrix](https://github.com/Shlok2305/leetcode/tree/master/0867-transpose-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shlok2305/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shlok2305/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
