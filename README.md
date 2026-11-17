@@ -407,6 +407,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shlok2305/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shlok2305/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Shlok2305/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shlok2305/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shlok2305/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -478,6 +479,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0567-permutation-in-string](https://github.com/Shlok2305/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shlok2305/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shlok2305/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shlok2305/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Linked List
 |  |
 | ------- |
@@ -503,6 +505,7 @@ It motivates me to keep solving and sharing more LeetCode problems.
 | [0392-is-subsequence](https://github.com/Shlok2305/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shlok2305/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shlok2305/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shlok2305/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3524-find-x-value-of-array-i](https://github.com/Shlok2305/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Shlok2305/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
